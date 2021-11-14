@@ -4,3 +4,6 @@ this is the third line
 this is the fourth line
 this is the fifth line
 this is the six line
+this is the stmnt belongs to Automation -1
+this is the stmnt belongs to Automation -2
+this is the stmnt belongs to Automation -3
